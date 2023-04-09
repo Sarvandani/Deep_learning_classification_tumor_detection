@@ -13,3 +13,7 @@ The histogram indciating the images with and without tumor is being shown in the
 Training loss and validation loss after 139 epoch:
 
 <img src="loss.png" width="400" height="300">
+
+Training accuracy and validation accuracy after 139 epoch:
+
+<img src="accuracy.png" width="400" height="300">
