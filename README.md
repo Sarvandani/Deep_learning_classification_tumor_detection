@@ -1,1 +1,1 @@
-# Deep_learning_classification_tomur_detection
+# Deep_learning_classification_tumor_detection
