@@ -10,4 +10,5 @@ The histogram indciating the images with and without tumor is being shown in the
 4 MRI images have been visualized with and without tumor:
 <img src="MRI.png" width="800" height="600">
 
-
+Training loss and validation loss after 139 epoch:
+<img src="loss.png" width="400" height="300">
