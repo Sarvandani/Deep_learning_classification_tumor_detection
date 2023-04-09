@@ -5,4 +5,4 @@ The data can be downloaded from the following link:
 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?datasetId=165566&sortBy=voteCount
 
 The histogram showing the images with and without tumor is being shown in the following:
-<img src="price_plot.png" width="400" height="300">
+<img src="histo.png" width="400" height="300">
