@@ -17,3 +17,12 @@ Training loss and validation loss after 139 epoch:
 Training accuracy and validation accuracy after 139 epoch:
 
 <img src="accuracy.png" width="400" height="300">
+
+
+
+
+
+
+
+
+DISCLAIMER: I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
