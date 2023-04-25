@@ -1,8 +1,6 @@
 # Deep_learning_classification_tumor_detection
 Tumore detection is very important task in medical imaging. I have shown how deep learning can help us to detect brain tumors from MRI images.
 
-The data can be downloaded from the following link:
-https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?datasetId=165566&sortBy=voteCount
 
 The histogram indciating the images with and without tumor is being shown in the following:
 <img src="histo.png" width="400" height="300">
@@ -23,6 +21,7 @@ Training accuracy and validation accuracy after 139 epoch:
 
 
 
-
+The data can be downloaded from the following link:
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?datasetId=165566&sortBy=voteCount
 
 DISCLAIMER: I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
