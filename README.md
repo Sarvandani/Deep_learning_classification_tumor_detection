@@ -2,7 +2,7 @@
 Tumore detection is very important task in medical imaging. I have shown how deep learning can help us to detect brain tumors from MRI images.
 
 
-The histogram indciating the images with and without tumor is being shown in the following:
+The histogram indicating the images with and without tumor is being shown in the following:
 <img src="histo.png" width="400" height="300">
 
 4 MRI images have been visualized with and without tumor:
