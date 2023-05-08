@@ -2,7 +2,7 @@
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
-![GitHub forks](https://badgen.net/badge/github/forks/:red)
+![GitHub forks](https://badgen.net/badge/github/forks/:red?)
 
 
 
