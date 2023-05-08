@@ -1,7 +1,7 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
-![GitHub forks](https://badgen.net/badge/:github/:forks/:red?icon=github)
+![GitHub forks](https://badgen.net/badge/github/forks/:red?icon=linkedin)
 https://badgen.net/badge/:subject/:status/:color?icon=github
 
 
