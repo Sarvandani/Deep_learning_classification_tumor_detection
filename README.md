@@ -1,5 +1,4 @@
 
-[![GitHub forks](https://badgen.net/github/forks)](https://github.com/Sarvandani/Deep_learning_classification_tumor_detection)
 
 
 
