@@ -1,5 +1,5 @@
 
-[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
+[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://github.com/Sarvandani/Deep_learning_classification_tumor_detection)
 
 
 
