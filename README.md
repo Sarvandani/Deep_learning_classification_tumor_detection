@@ -1,5 +1,5 @@
 
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # Deep_learning_classification_tumor_detection
 Tumore detection is very important task in medical imaging. I have shown how deep learning can help us to detect brain tumors from MRI images.
