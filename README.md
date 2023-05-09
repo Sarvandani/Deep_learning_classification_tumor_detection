@@ -1,4 +1,4 @@
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 # Deep_learning_classification_tumor_detection
 Tumore detection is very important task in medical imaging. I have shown how deep learning can help us to detect brain tumors from MRI images.
