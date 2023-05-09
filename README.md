@@ -1,4 +1,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 
 # Deep_learning_classification_tumor_detection
 Tumore detection is very important task in medical imaging. I have shown how deep learning can help us to detect brain tumors from MRI images.
