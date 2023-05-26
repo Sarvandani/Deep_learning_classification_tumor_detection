@@ -1,6 +1,8 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Github All Releases](https://img.shields.io/github/downloads/Sarvandani/Deep_learning_classification_tumor_detection/total.svg)]()
+[![Github releases (by release)](https://img.shields.io/github/downloads/Sarvandani/Deep_learning_classification_tumor_detection/total.svg)](https://GitHub.com//Sarvandani/Deep_learning_classification_tumor_detection/releases/)
+
 
 
   
