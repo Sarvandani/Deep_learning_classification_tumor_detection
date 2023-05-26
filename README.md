@@ -29,4 +29,4 @@ Training accuracy and validation accuracy after 139 epoch:
 The data can be downloaded from the following link:
 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?datasetId=165566&sortBy=voteCount
 
-DISCLAIMER: I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
+`DISCLAIMER`: I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
