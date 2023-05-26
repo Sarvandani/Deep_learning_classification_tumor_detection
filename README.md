@@ -2,7 +2,7 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Github All Releases](https://img.shields.io/github/downloads/Sarvandani/Deep_learning_classification_tumor_detection/total.svg)]()
 [![Github releases (by release)](https://img.shields.io/github/downloads/Sarvandani/Deep_learning_classification_tumor_detection/total.svg)](https://GitHub.com//Sarvandani/Deep_learning_classification_tumor_detection/releases/)
-[![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
+[![Package Control total downloads](https://img.shields.io/packagecontrol//Sarvandani/Deep_learning_classification_tumor_detection/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
 
 
 
