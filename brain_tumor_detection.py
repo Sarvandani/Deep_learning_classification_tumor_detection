@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-
+##The data can be downloaded from the following link: 
+##https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?datasetId=165566&sortBy=voteCount
 @author: Sarvandani
 """
 import numpy as np 
